@@ -1,3 +1,6 @@
 this is rev1
+<<<<<<< HEAD
 this is rev2
 this is rev3
+=======
+>>>>>>> parent of 9247f95 (rev2)
